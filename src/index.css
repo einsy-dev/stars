@@ -1,0 +1,7 @@
+* {
+    list-style-type: none;
+}
+
+.rating>ul {
+    display: flex;
+}
